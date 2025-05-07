@@ -39,7 +39,7 @@ Analyze data             | Plot data
 1. Clone this repository:
 
    ```
-   git clone https://github.com/jeremy-feng/chat-data.git
+   git clone [https://github.com/jeremy-feng/chat-data](https://github.com/MinhPhambk/ReportX).git
    ```
 2. Install the required packages:
 
