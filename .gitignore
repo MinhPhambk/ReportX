@@ -3,3 +3,6 @@
 temp_chart.png
 .vscode
 cache*
+INPUT_DATA/
+.idea/
+INPUT DATA/
